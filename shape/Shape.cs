@@ -39,5 +39,6 @@ namespace shape
         {
             return $"Color: {color}\nIsHoley: {isHoley}\n\t-Perimeter: {Perimeter()}\n\t-Area: {Area()}";
         }
+
     }
 }
